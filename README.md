@@ -50,7 +50,7 @@ Primero (pestaña issues)--> creamos todos los issues teniendo en cuenta las el 
 
 # FILTROS ( EPICs,US y TASKs)
 
--Ahora vamos a filtrar por etiquetas (type) --> es e tipo de tarea según la jerarquía que se muestra en el documento de Ubuvirtual. 
+-Ahora vamos a filtrar por etiquetas (type) --> es el tipo de tarea según la jerarquía que se muestra en el documento de Ubuvirtual. 
 -Jerarquía es : (Epic-- US---Task)
 -Por tanto vamos a ir filtrando y mostrando los resultados (en los casos de US y Task obviamente hay mas tareas de la que salen en la captura , pero no entran todas)
 
