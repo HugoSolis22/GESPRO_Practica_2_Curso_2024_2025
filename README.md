@@ -71,22 +71,28 @@ Primero (pestaña issues)--> creamos todos los issues teniendo en cuenta las el 
 
 # TAREAS 1 RELEASE EN SPRINT BACKLOG
 
-El numero de tareas del release 1 que vamos a mover a la columna de Sprint Backlog son 7 y como en la captura no entraban todas solo salen las tres primeros pero estan el resto debajo.
+El numero de tareas del release 1 que vamos a mover a la columna de Sprint Backlog son 8 y como en la captura no entraban todas solo salen las tres primeros pero estan el resto debajo.
+Hay que pasar las tareas de la columna PRODUCT BACKLOG a la comuna SPRINT BACKLOG
 
-![SP release1](https://github.com/user-attachments/assets/ae7bdb41-79de-4d7d-883e-99167e277502)
+Columna Product Backlog:
+![Image 1](https://github.com/user-attachments/assets/26e2dd24-cf12-40c2-88e4-9629cf05baa3)
+
+Columna Sprint Backlog:
+![Image 2](https://github.com/user-attachments/assets/7b9d80d3-e183-45a5-8dc0-695d5d39462d)
+
 
 # Tareas de 1er Release en progreso en diferentes columnas ( solo se mueven las type: TASKS) 
 
 Aqui igual que en el anterior solo saldran en la captura las tres primeras tareas porque no caben en la captura pero estan todas debajo.
 
 Columna In Progress:
-![IP release1](https://github.com/user-attachments/assets/a5837f1f-b2ba-4105-8ddc-274b8b729bb5)
+![Image 3](https://github.com/user-attachments/assets/8019158a-d7ed-4c62-8a37-ff1d0837a926)
 
 Columna Review:
-![R release1](https://github.com/user-attachments/assets/6701261f-d275-491a-93b9-9d3a7787aade)
+![Image 4](https://github.com/user-attachments/assets/2f55794d-4c3e-4bd0-96a5-f45ad3c6ae87)
 
 Columna Done:
-![D release1](https://github.com/user-attachments/assets/8c84f175-66c0-406e-ac89-c78b9caab66f)
+![Image 5](https://github.com/user-attachments/assets/b597ee79-b8df-475a-9e51-96f0ba7e9172)
 
 # Cierre del 1er release
 
@@ -94,6 +100,38 @@ Columna Closed:
 ![C release1](https://github.com/user-attachments/assets/bdad830b-5872-412c-8197-7824f8deba3d)
 
 # Comienzo de la 2da Release
+
+El numero de tareas del release 2 que vamos a mover a la columna de Sprint Backlog son 13 y como en la captura no entraban todas solo salen las tres primeros pero estan el resto debajo.
+Hay que pasar las tareas de la columna PRODUCT BACKLOG a la comuna SPRINT BACKLOG
+
+Columna Product Backlog:
+![Image 1 1](https://github.com/user-attachments/assets/6b11bf5f-d09b-4067-b17b-361b63cf58ef)
+
+
+Columna Sprint Backlog:
+![Image 1 2](https://github.com/user-attachments/assets/6fdfca86-6e7a-4bc5-99e1-fe60ed82e2a6)
+
+# Tareas de la 2da Release en progreso y filtradas por algún topic
+Una vez esten todas las tareas colocadas en la columna de Sprint Backlog le damos a la pestaña de filtrar por label y seleccionamos el topic que deseamos.
+Aqui las capturas las vamos a poner solo con un ejemplo de topic (setup) pero se haria lo mismo con todas y se iria cerrando las tareas segun vayamos acabando con ese topic.
+
+Filtrado:
+![image 1 3](https://github.com/user-attachments/assets/5f22245f-6f34-40ea-b7d4-5bf744724f0c)
+
+Columna In Progress:
+![image 1 4](https://github.com/user-attachments/assets/83be35ab-29c7-4557-abce-5d99d59d9366)
+
+Columna Review:
+![image 1 5](https://github.com/user-attachments/assets/f6ea6bfd-53af-4212-adb8-5dc3a3367d56)
+
+Columna Done:
+![image 1 6](https://github.com/user-attachments/assets/ce7255ec-bd85-4a52-90ce-cb0dd6cf09af)
+
+Columna Closed:
+![image 1 7](https://github.com/user-attachments/assets/eeb51b96-b7f7-4540-b54e-eba0d92f4bf1)
+
+
+
 
 
 
