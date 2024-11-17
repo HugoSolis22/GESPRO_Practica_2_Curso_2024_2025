@@ -131,6 +131,25 @@ Columna Closed:
 ![image 1 7](https://github.com/user-attachments/assets/eeb51b96-b7f7-4540-b54e-eba0d92f4bf1)
 
 
+# IMAGEN DE CONVERSACION EN 2 TAREAS
+
+-Hemos usado las conversaciones en las tareas para comunicarnos entre nosotros y asi facilitar la programación paralela.
+-Cuando te escribe tu compaero , lo puedes ver en la propia tarea , o en el apartado de notificaciones.
+
+-Imagen 1 tarea conversacion : 
+
+![Captura de pantalla 2024-11-17 210927](https://github.com/user-attachments/assets/b3dc8a2b-3bce-4fe9-9755-723b6f698701)
+
+
+-Imagen 2 tarea conversacion : 
+
+![Captura de pantalla 2024-11-17 211329](https://github.com/user-attachments/assets/cd935893-fe22-42a6-ad32-8498c13ffa46)
+
+
+
+
+# FIN DE LA PRACTICA
+
 
 
 
