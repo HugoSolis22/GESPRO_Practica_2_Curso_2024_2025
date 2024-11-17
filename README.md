@@ -71,6 +71,30 @@ Primero (pestaña issues)--> creamos todos los issues teniendo en cuenta las el 
 
 # TAREAS 1 RELEASE EN SPRINT BACKLOG
 
+El numero de tareas del release 1 que vamos a mover a la columna de Sprint Backlog son 7 y como en la captura no entraban todas solo salen las tres primeros pero estan el resto debajo.
+
+![SP release1](https://github.com/user-attachments/assets/ae7bdb41-79de-4d7d-883e-99167e277502)
+
+# Tareas de 1er Release en progreso en diferentes columnas ( solo se mueven las type: TASKS) 
+
+Aqui igual que en el anterior solo saldran en la captura las tres primeras tareas porque no caben en la captura pero estan todas debajo.
+
+Columna In Progress:
+![IP release1](https://github.com/user-attachments/assets/a5837f1f-b2ba-4105-8ddc-274b8b729bb5)
+
+Columna Review:
+![R release1](https://github.com/user-attachments/assets/6701261f-d275-491a-93b9-9d3a7787aade)
+
+Columna Done:
+![D release1](https://github.com/user-attachments/assets/8c84f175-66c0-406e-ac89-c78b9caab66f)
+
+# Cierre del 1er release
+
+Columna Closed:
+![C release1](https://github.com/user-attachments/assets/bdad830b-5872-412c-8197-7824f8deba3d)
+
+# Comienzo de la 2da Release
+
 
 
 
