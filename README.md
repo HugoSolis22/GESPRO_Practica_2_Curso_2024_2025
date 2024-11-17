@@ -7,6 +7,9 @@ Incluid debajo el nombre de los miembros del grupo:
 
 ![image](https://github.com/user-attachments/assets/be4db69b-090a-4e6f-b5d1-80d4f23ada72)
 
+
+
+
 # INICIO DE LA PRACTICA
 
 Autores--> Hugo Solis y Samuel De Castro
